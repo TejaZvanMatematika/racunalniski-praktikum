@@ -1,3 +1,33 @@
+h1 {
+    color: rgb(153, 0, 255);
+}
+
+h2 {
+    margin-top: 2em;
+    padding: 1px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #AAAAAA;
+    padding-top: 0.5em;
+}
+
+#uvod {
+    padding: 2em;
+    background-color: rgb(51, 0, 102, 0.1);
+}
+
+.slika {
+    font-size: 0.9em;
+    width: 40%;
+    float: right;
+    margin-left: 2em;
+}
+
+.slika img {
+    width: 100%;
+    height: auto;
+}
+
 body {
     /*  Barva pisave pod značko oz. oznako  */
     color: #7e7e7e; 
