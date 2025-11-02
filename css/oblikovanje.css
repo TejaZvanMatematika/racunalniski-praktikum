@@ -25,6 +25,15 @@ h2 {
      /* border-style: outset;
     border-color: #cc0000;
     border-width: 10px; */
+    
+}
+
+.slika p:last-child {
+    font-size: 0.8em;
+}
+
+.slika p {
+    padding-top: 0.05em;
 }
 
 .slika img {
