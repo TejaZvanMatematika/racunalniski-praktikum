@@ -22,14 +22,14 @@ h2 {
     width: 40%;
     float: right;
     margin-left: 2em;
+     /* border-style: outset;
+    border-color: #cc0000;
+    border-width: 10px; */
 }
 
 .slika img {
     width: 100%;
     height: auto;
-    border-style: outset;
-    border-color: #cc0000;
-    border-width: 10px;
 }
 
 body {
@@ -41,11 +41,11 @@ body {
     /*  Velikost pisave lahko določimo na več načinov.
         Spodnji jo določi glede na velikost pisave v znački, ki je na enem nivoju višje;
         če velikost pisave na zgornjem nivoju ni določena, se določi glede na privzeto velikost pisave v brskalniku. */
-    font-size: 1.2em;
+    font-size: 0.9em;
     /*  Višina vrstice  */
     line-height: 1.5;
     /*  Največja širina vsebine spletne strani  */
-    max-width: 40em;
+    max-width: 40%;
     /*  Širina zunanjega roba; auto pomeni, da rob izračuna brskalnik tako, da element zavzame širino določeno v slogu,
         preostanek pa se enakomerno razdeli med levim in desnim robom  */
     margin: auto;
